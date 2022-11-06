@@ -38,7 +38,7 @@ sh filequotation_cowsay.sh
 
 ## Support
 
-For support, email [superjulien](mailto:contact.superjulien@gmail.com). 
+For support, email [Gmail: superjulien](mailto:contact.superjulien@gmail.com) | [Tutanota: superjulien](mailto:contacts.superjulien@tutanota.com).
 
 ## Documentation
 
