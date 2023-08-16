@@ -1,5 +1,11 @@
 #! /bin/sh
 
+# Cowsay-Quotation
+# by superjulien 
+# > https://github.com/Superjulien
+# > https://framagit.org/Superjulien
+# V1.0
+
 ## to replace quotation.txt :
 puff=~/Folder/quotation.txt
 
