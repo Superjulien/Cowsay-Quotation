@@ -22,6 +22,7 @@ Feel free to check out the new version for any enhancements or changes that may 
 Before using this script, make sure you have the following:
 
 1. **cowsay**: Ensure that the `cowsay` command-line tool is installed on your system. If it's not installed, you can typically install it using package managers like `apt`, `yum`, or `brew`. For example:
+
    ```sh
    # On Debian-based systems (Ubuntu):
    sudo apt-get install cowsay
